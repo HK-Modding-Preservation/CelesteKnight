@@ -1,0 +1,3344 @@
+{
+  "$type": "DecorationMaster.ItemSettings, DecorationMaster",
+  "scene_name": "White_Palace_18",
+  "mod_version": 0.5,
+  "items": {
+    "$type": "System.Collections.Generic.List`1[[DecorationMaster.Item, DecorationMaster]], mscorlib",
+    "$values": [
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "remove_scene",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 285.458679,
+          "y": 14.1428013
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 284.65274,
+          "y": 3.43365335
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 295.241516,
+          "y": 7.54213142
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 298.7208,
+          "y": 7.467146
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 302.080139,
+          "y": 7.34717035
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 302.740021,
+          "y": 9.866673
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 302.740021,
+          "y": 12.11623
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 302.755035,
+          "y": 14.380784
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.4107,
+          "y": 14.5457516
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 296.006348,
+          "y": 14.6657276
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 292.722015,
+          "y": 14.6357346
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 280.436859,
+          "y": 1.34410954
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 283.931061,
+          "y": 1.33713531
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 276.7226,
+          "y": 1.34949112
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 276.385773,
+          "y": 1.33860779
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.356262,
+          "y": 1.34151459
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.517,
+          "y": 1.34157562
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.929718,
+          "y": 1.33741188
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 266.4198,
+          "y": 1.34540176
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.678345,
+          "y": 1.3458519
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 261.0593,
+          "y": 1.3489933
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.638428,
+          "y": 1.35037136
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.909256,
+          "y": 1.48241806
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.628769,
+          "y": 1.378335
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 28,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 290.843964,
+          "y": 4.393255
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 290.59964,
+          "y": 1.99290228
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 290.681763,
+          "y": 1.34463024
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 295.738647,
+          "y": 1.33853912
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 293.1835,
+          "y": 1.52744389
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.7822,
+          "y": 1.33815765
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.582825,
+          "y": 2.000535
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 293.478973,
+          "y": 2.70591068
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 292.07373,
+          "y": 3.59892559
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 293.303467,
+          "y": 3.87296343
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 294.185547,
+          "y": 4.82947
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 295.916473,
+          "y": 5.5915184
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 298.2825,
+          "y": 5.460658
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 297.198517,
+          "y": 4.89059639
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 296.5728,
+          "y": 3.84544325
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 296.6778,
+          "y": 2.76094246
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 296.791351,
+          "y": 2.22037983
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.71582,
+          "y": 4.37973833
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.775848,
+          "y": 3.54111624
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.7822,
+          "y": 2.92691135
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.780182,
+          "y": 1.99799538
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.6582,
+          "y": 1.348877
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 293.90802,
+          "y": 2.861032
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 294.2878,
+          "y": 1.33945847
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 294.366425,
+          "y": 1.34950829
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 288.125763,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 284.710876,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 281.08252,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 279.72226,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 276.013519,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.116516,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 271.9812,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.680328,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 266.532227,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 262.2838,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.296448,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 256.041656,
+          "y": 0.3835888
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.751221,
+          "y": 11.1494389
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.711182,
+          "y": 13.4589834
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.718353,
+          "y": 15.8882427
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 262,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 256.8415,
+          "y": 5.45056057
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.658661,
+          "y": 0.351564884
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.200012,
+          "y": 0.9814415
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 93,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.420242,
+          "y": 5.195611
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.651917,
+          "y": 9.874689
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.367645,
+          "y": 9.799705
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.303116,
+          "y": 12.4391851
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.62674,
+          "y": 12.4091911
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.391083,
+          "y": 7.86508465
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.51532,
+          "y": 5.75050163
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.377777,
+          "y": 3.63591862
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 252.127747,
+          "y": 3.72590065
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 252.20816,
+          "y": 6.095434
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 252.009,
+          "y": 8.434973
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.57885921,
+        "angle": 249,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.585632,
+          "y": 17.8447952
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.9935,
+          "y": 18.6779881
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_flip_platform",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 268.399048,
+          "y": 17.0466614
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_flip_platform",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 280.125763,
+          "y": 20.28831
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_flip_platform",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 291.248871,
+          "y": 23.45191
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_MonarchWings",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 342.9826,
+          "y": 10.8849487
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_DownSlash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 342.8926,
+          "y": 12.5496206
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_quake",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 343.132568,
+          "y": 14.0943165
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_fireball",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 343.057556,
+          "y": 15.6540089
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_scream",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 342.997559,
+          "y": 17.0937271
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_supserdash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 343.102539,
+          "y": 18.818388
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 18,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 274.3907,
+          "y": 17.8544312
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 281.057617,
+          "y": 18.9233646
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.86828864,
+        "angle": 28,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 287.074738,
+          "y": 20.7815056
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.777252,
+          "y": 24.3364525
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.778137,
+          "y": 26.7560654
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.7822,
+          "y": 29.1431923
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.768951,
+          "y": 31.530344
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 299.772736,
+          "y": 33.9827843
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 294.395569,
+          "y": 22.7712364
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 298.965027,
+          "y": 22.8964748
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.133881,
+          "y": 15.8186293
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 181,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.019348,
+          "y": 14.8138256
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 196,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.036163,
+          "y": 16.2835388
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 179,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 281.235016,
+          "y": 18.0598583
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 221,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 287.994537,
+          "y": 19.5560627
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 186,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 294.353271,
+          "y": 21.9855843
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 186,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 298.8822,
+          "y": 22.0355644
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "binoculars",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 295.087982,
+          "y": 17.7464066
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_flip_platform",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 293.288483,
+          "y": 30.1105747
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 274.737061,
+          "y": 33.9462242
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 274.772675,
+          "y": 36.3681755
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 274.702667,
+          "y": 38.761097
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 285.813477,
+          "y": 40.0274
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 269,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 276.33548,
+          "y": 39.1374664
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.787231,
+          "y": 41.33772
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 78,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.0601,
+          "y": 37.59294
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 171,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 274.020844,
+          "y": 32.67933
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.OtherBehaviour+BackColorFill+PartResizeColor, DecorationMaster",
+        "size_x": 1.0,
+        "size_y": 1.0,
+        "angle": 0,
+        "Order": 0,
+        "A": 0.0,
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "sceneName": "White_Palace_18",
+        "pname": "back_colorfull_fill",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.771179,
+          "y": 34.95116
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.OtherBehaviour+BackColorFill+PartResizeColor, DecorationMaster",
+        "size_x": 1.0,
+        "size_y": 1.0,
+        "angle": 0,
+        "Order": 0,
+        "A": 0.0,
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "sceneName": "White_Palace_18",
+        "pname": "back_colorfull_fill",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.1626,
+          "y": 37.824398
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.OtherBehaviour+BackColorFill+PartResizeColor, DecorationMaster",
+        "size_x": 1.0,
+        "size_y": 1.0,
+        "angle": 0,
+        "Order": 0,
+        "A": 0.0,
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "sceneName": "White_Palace_18",
+        "pname": "back_colorfull_fill",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.652161,
+          "y": 39.2547035
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_infinte_soul",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 285.6465,
+          "y": 45.46421
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_RespawnPoint",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 283.610718,
+          "y": 43.6440735
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_RespawnPoint",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 283.284241,
+          "y": 46.0044365
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_RespawnPoint",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 283.3484,
+          "y": 48.5356
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_small",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.87674,
+          "y": 42.3784332
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_small",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.410156,
+          "y": 42.4139328
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_small",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 270.828766,
+          "y": 42.50004
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.119736,
+          "y": 46.82221
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.045853,
+          "y": 49.2057076
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.026627,
+          "y": 51.5359
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 257,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.714767,
+          "y": 52.294014
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.98912,
+          "y": 53.9874954
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.955933,
+          "y": 56.41626
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.1945,
+          "y": 52.0733337
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.2179,
+          "y": 54.487854
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.122955,
+          "y": 57.0079346
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.857285,
+          "y": 58.85435
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.15387,
+          "y": 59.2742653
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.998749,
+          "y": 61.7026672
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.72847,
+          "y": 61.2077637
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.946442,
+          "y": 64.17718
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.812454,
+          "y": 63.5623
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.801437,
+          "y": 66.0429153
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.877228,
+          "y": 66.70279
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.75503361,
+        "angle": 91,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.3453,
+          "y": 55.59902
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 264,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.718552,
+          "y": 56.70073
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.459473,
+          "y": 57.18898
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.880539,
+          "y": 64.08839
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 88,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.004181,
+          "y": 63.2185745
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.8418,
+          "y": 68.559845
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.8912,
+          "y": 70.8268
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.85570478,
+        "angle": 249,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.0451,
+          "y": 70.42217
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 166,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.943573,
+          "y": 73.4365845
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.8278,
+          "y": 67.87267
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.618561,
+          "y": 70.7521057
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.566925,
+          "y": 70.7232056
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.507446,
+          "y": 77.667984
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 266.25824,
+          "y": 82.87859
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 258.381561,
+          "y": 83.069
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 252.1037,
+          "y": 79.41181
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 245.119888,
+          "y": 72.92468
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 249.865845,
+          "y": 85.97899
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 245.066025,
+          "y": 91.42957
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 238.88179,
+          "y": 86.9604645
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 232.032333,
+          "y": 81.29545
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 225.378479,
+          "y": 81.41543
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 226.045334,
+          "y": 86.70674
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 226.045334,
+          "y": 86.70674
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 229.541,
+          "y": 86.94058
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 229.541,
+          "y": 86.94058
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 232.461472,
+          "y": 87.0467148
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 232.461472,
+          "y": 87.0467148
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 232.52475,
+          "y": 77.13978
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 232.52475,
+          "y": 77.13978
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 228.871109,
+          "y": 76.9248657
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 228.871109,
+          "y": 76.9248657
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 225.10498,
+          "y": 77.08061
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 225.10498,
+          "y": 77.08061
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 236.329956,
+          "y": 78.39656
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 236.329956,
+          "y": 78.39656
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 239.429886,
+          "y": 80.8419952
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 239.429886,
+          "y": 80.8419952
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 234.627792,
+          "y": 90.18816
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 234.627792,
+          "y": 90.18816
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 237.080917,
+          "y": 93.3606644
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 237.080917,
+          "y": 93.3606644
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 239.80365,
+          "y": 95.28141
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 239.80365,
+          "y": 95.28141
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 243.389679,
+          "y": 95.86026
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 243.389679,
+          "y": 95.86026
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 247.395767,
+          "y": 95.350174
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 247.395767,
+          "y": 95.350174
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 268.538269,
+          "y": 67.51661
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 268.538269,
+          "y": 67.51661
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.401031,
+          "y": 66.94301
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 272.401031,
+          "y": 66.94301
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.7435,
+          "y": 67.6028748
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.7435,
+          "y": 67.6028748
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.918,
+          "y": 71.35129
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.918,
+          "y": 71.35129
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.9668,
+          "y": 74.75562
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 265.9668,
+          "y": 74.75562
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.1827,
+          "y": 74.74062
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 269.1827,
+          "y": 74.74062
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.4879,
+          "y": 74.80061
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.4879,
+          "y": 74.80061
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.7875,
+          "y": 78.2473
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.7875,
+          "y": 78.2473
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.5649,
+          "y": 81.9459
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 275.5649,
+          "y": 81.9459
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 267.335815,
+          "y": 77.70668
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 267.335815,
+          "y": 77.70668
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.176666,
+          "y": 78.87645
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 264.176666,
+          "y": 78.87645
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.149323,
+          "y": 84.80028
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 273.149323,
+          "y": 84.80028
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 270.125824,
+          "y": 87.0198441
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 270.125824,
+          "y": 87.0198441
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 266.520142,
+          "y": 87.36478
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 266.520142,
+          "y": 87.36478
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 260.322571,
+          "y": 78.71148
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 260.322571,
+          "y": 78.71148
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.158844,
+          "y": 87.7697
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.158844,
+          "y": 87.7697
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.610443,
+          "y": 87.67972
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 259.610443,
+          "y": 87.67972
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 256.268127,
+          "y": 85.7301
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 256.268127,
+          "y": 85.7301
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.304718,
+          "y": 76.65689
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 257.304718,
+          "y": 76.65689
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 260.603668,
+          "y": 75.577095
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 260.603668,
+          "y": 75.577095
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.2304,
+          "y": 75.6970749
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 263.2304,
+          "y": 75.6970749
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 248.614792,
+          "y": 76.0410156
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 248.614792,
+          "y": 76.0410156
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.00058,
+          "y": 82.50474
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 251.00058,
+          "y": 82.50474
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.686844,
+          "y": 84.7543
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.686844,
+          "y": 84.7543
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.036346,
+          "y": 72.64589
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 254.036346,
+          "y": 72.64589
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 250.714111,
+          "y": 67.34538
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 250.714111,
+          "y": 67.34538
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 247.074478,
+          "y": 67.16541
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 247.074478,
+          "y": 67.16541
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 243.466339,
+          "y": 67.2104
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 243.466339,
+          "y": 67.2104
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 240.203384,
+          "y": 69.23501
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 240.203384,
+          "y": 69.23501
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 238.434875,
+          "y": 72.36066
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 238.434875,
+          "y": 72.36066
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 238.1515,
+          "y": 75.87479
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 238.1515,
+          "y": 75.87479
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.661118,
+          "y": 89.47913
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 255.661118,
+          "y": 89.47913
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.28421,
+          "y": 91.9077148
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 253.28421,
+          "y": 91.9077148
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 250.1235,
+          "y": 93.79735
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 250.1235,
+          "y": 93.79735
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 245.245743,
+          "y": 87.10866
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 245.245743,
+          "y": 87.10866
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 248.5697,
+          "y": 79.69703
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 248.5697,
+          "y": 79.69703
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_recoverDash",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 244.487778,
+          "y": 81.48621
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+SawItem, DecorationMaster",
+        "span": 3,
+        "speed": 0,
+        "pitch": 1.0,
+        "volume": 0.0,
+        "Center": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 242.196091,
+          "y": 84.22255
+        },
+        "offset": 0,
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_saw",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 242.196091,
+          "y": 84.22255
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_flip_platform",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 221.881912,
+          "y": 78.16881
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_platform_rect",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 202.830521,
+          "y": 77.70891
+        }
+      },
+      {
+        "$type": "DecorationMaster.MyBehaviour.DefaultBehaviour+SharedItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "HK_infinte_soul",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 202.74054,
+          "y": 82.80788
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefaultItem, DecorationMaster",
+        "sceneName": "White_Palace_18",
+        "pname": "IMG_RespawnPoint",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 202.62056,
+          "y": 82.5529251
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 264,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 206.2616,
+          "y": 77.78828
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 208.599365,
+          "y": 76.25527
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 212.317383,
+          "y": 76.35959
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 216.469315,
+          "y": 76.46473
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 220.355667,
+          "y": 76.45113
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 1.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 224.372635,
+          "y": 76.46215
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 201.242477,
+          "y": 72.26349
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 202.737183,
+          "y": 74.15202
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 208.4478,
+          "y": 72.269104
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 209.0693,
+          "y": 74.32128
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 214.933914,
+          "y": 74.78363
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 217.559311,
+          "y": 72.26687
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 213.651917,
+          "y": 72.47971
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 220.011871,
+          "y": 74.74055
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 228.989151,
+          "y": 72.26131
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 224.849014,
+          "y": 73.14084
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 227.053253,
+          "y": 74.13373
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 233.870956,
+          "y": 74.97284
+        }
+      },
+      {
+        "$type": "DecorationMaster.ItemDef+DefatulResizeItem, DecorationMaster",
+        "size": 2.0,
+        "angle": 0,
+        "sceneName": "White_Palace_18",
+        "pname": "white_thorn",
+        "position": {
+          "$type": "DecorationMaster.V2, DecorationMaster",
+          "x": 233.385681,
+          "y": 72.82826
+        }
+      }
+    ]
+  }
+}
