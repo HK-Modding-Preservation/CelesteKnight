@@ -1,9 +1,7 @@
 # Introduction
 Celeste Knight implements Celeste movements in Hollow Knight.
 
-https://www.youtube.com/watch?v=EWzjTLtzOcM
-
-https://www.bilibili.com/video/BV1q24y1S747
+https://www.youtube.com/watch?v=3uoCHXYwSzQ
 
 # Acknowledgment
 Modding API: https://github.com/hk-modding/api
