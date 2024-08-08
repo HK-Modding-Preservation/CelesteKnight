@@ -291,12 +291,17 @@ namespace CelesteKnight
         }
         private void HeroController_CancelDash(On.HeroController.orig_CancelDash orig, HeroController self)
         {
+            var dashing = self.Reflect().cState.dashing;
             orig(self);
             AdjustSprite(0, 0);
             if (dashingUp && !dashingLeft && !dashingRight)
             {
                 self.Reflect().rb2d.velocity = Vector2.zero;
-                Momentum.momentum = upDashMomentum;
+                var h = self.Reflect();
+                if (dashing)
+                {
+                    Momentum.momentum = upDashMomentum;
+                }
             }
         }
         private void HeroController_FinishedDashing(On.HeroController.orig_FinishedDashing orig, HeroController self)
